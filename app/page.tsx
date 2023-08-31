@@ -150,12 +150,12 @@ const features = [
             "Reshape the AI drive application pattern, creating unprecedented possibilities for AI and human intelligence fusion to pave the way",
         demo: (
             <div className="grid grid-flow-col grid-rows-3 gap-10 p-10">
-                <span className="font-mono font-semibold">LLM Service</span>
+                <span className="font-mono font-semibold">LLM 服务</span>
                 <span className="font-mono font-semibold">数据合成</span>
                 <span className="font-mono font-semibold">行业大模型</span>
-                <span className="font-mono font-semibold">The second memory</span>
-                <span className="font-mono font-semibold">AI big model law</span>
-                <span className="font-mono font-semibold">E-government brain</span>
+                <span className="font-mono font-semibold">LLM Service</span>
+                <span className="font-mono font-semibold">Data synthesis</span>
+                <span className="font-mono font-semibold">Industry model</span>
             </div>
         ),
     },
